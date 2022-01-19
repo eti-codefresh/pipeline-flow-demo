@@ -4,5 +4,3 @@
  quay.io/eti_zaguri/test
 
 
-jj
-kkkk
