@@ -4,7 +4,3 @@
  quay.io/eti_zaguri/test
 
 
-hnjmk,mnb
-KBB
-KNB 
-mbm
