@@ -3,5 +3,3 @@
 
  quay.io/eti_zaguri/test
 
-,mnb
-mnbv
