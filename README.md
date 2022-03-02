@@ -3,7 +3,3 @@
 
  quay.io/eti_zaguri/test
 
-mjvghj
-njbv
-kjh
-mjhbvbhnj
